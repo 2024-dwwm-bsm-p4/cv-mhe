@@ -24,6 +24,10 @@ body {
     margin-right: 20px;
 }
 
+#title {
+    color: lightblue;
+}
+
 .container {
     width: 80%;
     max-width: 800px;
@@ -71,7 +75,8 @@ h1 {
 
 .contact-info {
     font-size: 0.9em;
-    color: #1a83c9;
+    color: #243f58;
+    text-shadow: #000000 5px 5px 5px 0px;
 }
 
 section {
