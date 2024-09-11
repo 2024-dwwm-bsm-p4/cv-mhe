@@ -13,7 +13,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #ffffff;
-    color: #333;
+    color: #ffffffb7;
 }
 
 .profile-photo {
@@ -76,7 +76,11 @@ h1 {
 .contact-info {
     font-size: 0.9em;
     color: #243f58;
-    text-shadow: #000000 5px 5px 5px 0px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#title3 {
+    font-size: 25px;
 }
 
 section {
@@ -445,3 +449,5 @@ ul {
   #xppp {
     color: rgb(0, 119, 255);
   }
+
+  
